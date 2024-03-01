@@ -9,3 +9,4 @@ You can use Visual Studio Code to run the notebook by:
 pip install bash_kernel
 python -m bash_kernel.install
 ```
+Credits to my buddy Shriram Rajaraman for helping me sort out the ingress issue and getting this demo working.
