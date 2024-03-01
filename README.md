@@ -1,4 +1,4 @@
-# Demo of HashiCorp Vault - Vault Secrets Operator
+# Demo of HashiCorp Terraform Flexible Deployment Options (FDO)
 
 This is still WIP.  Not fully working.
 
